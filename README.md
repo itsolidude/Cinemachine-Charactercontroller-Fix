@@ -1,18 +1,18 @@
-# Cinemachine-CharacterController for Freelook Camera in Unity
+# Custom Cinemachine Freelook Camera Control in Unity
 
-## Project Overview
+## My Journey with Cinemachine
 
-This repository contains a custom script for a Freelook Camera Controller in Unity, utilizing Cinemachine. The script is an enhancement of the default movement script provided by Unity's examples, modified to ensure smooth turns and eliminate jitter. It is designed to be easily integrated with a player character for intuitive and responsive camera control.
+Hello! Welcome to my little corner where I share my custom script for the Freelook Camera in Unity, built on top of Cinemachine's default camera script. Like many others, I was frustrated with the annoying jitter that came with the default setup. Determined to fix this, I embarked on a deep dive into the world of quaternions and camera movement in Unity. It was a lot of research and learning, but finally, I came up with a solution that smoothed things out.
 
-## Key Features
+## Why I Tackled This Project
 
-- **Smooth Camera Movement:** The script ensures fluid camera movement and turning, providing a seamless user experience.
-- **Quaternion-Based Rotation:** Utilizing quaternions to manage player rotation, addressing the complexities and challenges associated with smooth rotational transitions.
-- **User-Friendly Setup:** Easy integration with Cinemachine's Freelook Camera by simply dragging and dropping the script onto your player character.
+- **The Jitter Problem:** That jitter was more than a minor annoyance – it was a deal-breaker. I knew there had to be a way to fix it.
+- **Deep Dive into Quaternions:** Getting my head around quaternions was no small feat, but understanding them was key to solving the jitter issue.
+- **Making It User-Friendly:** I wanted to create something that anyone could use in their project with ease, eliminating the frustration I went through.
 
-## Setup and Usage
+## Setting Up My Script
 
-1. **Insert a Freelook Camera:** Add a Cinemachine Freelook Camera into your Unity scene.
-2. **Attach the Script:** Drag and drop the `PlayerMove` script onto your player game object.
-3. **Configure Settings:** Assign the necessary slots and set values in the Unity Inspector to suit your project's needs.
-4. **Enjoy:** Experience improved camera movement and control in your game.
+1. **Start with Cinemachine:** Put a Cinemachine Freelook Camera in your scene.
+2. **Attach My Improved Script:** Drag my `PlayerMove` script onto your player.
+3. **Adjust to Your Liking:** Use the Unity Inspector to fine-tune settings for your game.
+4. **Experience Smooth Camera Control:** Enjoy the fruits of my labor with smooth, jitter-free camera movement.
