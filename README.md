@@ -7,7 +7,7 @@ Hello! Welcome to my little corner where I share my custom script for the Freelo
 ## Why I Tackled This Project
 
 - **The Jitter Problem:** That jitter was more than a minor annoyance – it was making the game unenjoyable. I knew there had to be a way to fix it.
-- **Deep Dive into Quaternions:** Getting my head around quaternions was no small feat, but understanding them was key to solving the jitter issue.
+- **Deep Dive into Quaternions:** Getting my head around quaternions was no small feat, but understanding them was key to keeping my sanity and solving the jitter issue.
 - **Making It User-Friendly:** I wanted to create something that anyone could use in their project with ease, eliminating the frustration I went through, to safe you from a borderline meltdown.
 
 ## Setting Up My Script
